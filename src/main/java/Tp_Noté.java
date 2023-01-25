@@ -8,13 +8,14 @@
  *
  * @author User
  */
-public class Tp_Noté {
+public class Tp_NotÃ© {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello world");
     }
     
 }
