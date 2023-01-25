@@ -7,25 +7,25 @@ Saleh eddine EL FDALI : saleh-eddine.el-fdali@eleves.ec-nantes.fr
 
 # Pré-requis
 
-Outil de développement : NetBeans
-Connaissances de base en JAVA
-connaissance des outils du controle de version : GIT
-Connaissance des tests unitaires
-connaissance de sonar pour une bonne qualité de code
-L'automatisation 
+- Outil de développement : NetBeans
+- Connaissances de base en JAVA
+- connaissance des outils du controle de version : GIT
+- Connaissance des tests unitaires
+- connaissance de sonar pour une bonne qualité de code
+- L'automatisation 
 
 # Consignes
 
-Le TP est à réaliser en binôme.
-Le délai du rendu est le 26/01/2023 à 12:20.
-Le code doit être commenté et bien organisé avec les tests qui marchent.
+- Le TP est à réaliser en binôme.
+- Le délai du rendu est le 26/01/2023 à 12:20.
+- Le code doit être commenté et bien organisé avec les tests qui marchent.
 
 
 # Objectifs
 
-Mettre en pratique les connaissances acquises en cours sur les méthodes de développement.
-Apprendre à travailler en binôme sur un projet commun.
-Apprendre à rendre un code propre et de bonne qualité.
+- Mettre en pratique les connaissances acquises en cours sur les méthodes de développement.
+- Apprendre à travailler en binôme sur un projet commun.
+- Apprendre à rendre un code propre et de bonne qualité.
 
 # Évaluation
 
